@@ -1,9 +1,9 @@
 //Initilizing myAge value to 20
 const myAge = 20;
 //Initilizing earlyYears1 value to 20
-const earlyYears1 = 2;
-//value of earlyYears is product of 10.5 and value of earlyYears1
-let earlyYears = earlyYears1 * 10.5;
+var earlyYears = 2;
+//value of earlyYears is product of 10.5 and value of earlyYears
+let earlyYears = earlyYears * 10.5;
 //laterYears value is difference of myAge and 2
 let laterYears = myAge - 2;
 //replacing laterYears value with the product of laterYears initial value and 4
